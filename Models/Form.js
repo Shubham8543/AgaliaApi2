@@ -1,4 +1,4 @@
-const mongoose = require('mongoose'); // Correct spelling
+const mongoose = require('mongoose');
 
 // Define the schema for the form
 const formSchema = new mongoose.Schema({

@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const Form = require("../models/Form");
+const Form = require("../models/Form.js");
 const nodemailer = require("nodemailer");
 require("dotenv").config();
 
